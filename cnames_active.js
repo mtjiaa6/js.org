@@ -1369,6 +1369,7 @@ var cnames_active = {
   "gridiron": "noderaider.github.io/gridiron",
   "gridl": "klattiation.github.io/gridl",
   "griffel": "microsoft.github.io/griffel",
+  "grit-initiatives": "mtjiaa6.github.io/grit-initiatives",
   "groundstate": "axtk.github.io/groundstate",
   "groupme": "groupme-js.github.io/website",
   "growfield": "fivefifteen.github.io/growfield",
